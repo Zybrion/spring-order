@@ -1,0 +1,7 @@
+azure:
+  keyvault:
+    enabled: true
+    uri: ENC(1pGS+OSU9a9Bs+2iAjhyVd8NonXkLp0BsPBOuUzcyJSFnABs+bc5jw==)
+    client-id: test
+    client-key: test
+    tenant-id: test
