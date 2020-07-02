@@ -1,3 +1,7 @@
+jasypt:
+  encryptor:
+    password: test
+
 azure:
   keyvault:
     enabled: true
